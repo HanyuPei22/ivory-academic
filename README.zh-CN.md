@@ -6,6 +6,11 @@
 
 ![桌面预览](docs/preview-desktop.jpg)
 
+<details>
+<summary>手机端预览</summary>
+<img src="docs/preview-mobile.jpg" alt="Ivory Academic 手机端预览" width="390">
+</details>
+
 ## 部署到 GitHub Pages
 
 1. 点击 **Use this template → Create a new repository**，创建公开仓库。个人主页推荐命名为 `你的用户名.github.io`。

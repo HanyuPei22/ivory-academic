@@ -6,6 +6,11 @@ A warm, minimal academic homepage template with editorial typography, an ivory b
 
 ![Desktop preview](docs/preview-desktop.jpg)
 
+<details>
+<summary>Mobile preview</summary>
+<img src="docs/preview-mobile.jpg" alt="Mobile version of Ivory Academic" width="390">
+</details>
+
 ## Features
 
 - Responsive layout, mobile navigation, and a simple initials wordmark.
