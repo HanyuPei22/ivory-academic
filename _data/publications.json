@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Example Conference Paper: Learning and Securing AI Agents",
+    "year": "2026",
+    "kind": "reviewed",
+    "badge": "Example Conference 2026",
+    "venue": "Example Conference, 2026 — illustrative entry",
+    "url": "https://example.org/",
+    "authors": [{"name": "Your Name"}, {"name": "Example Collaborator"}, {"name": "Example Advisor"}],
+    "links": [{"label": "Paper", "url": "https://example.org/"}, {"label": "Code", "url": "https://example.org/"}]
+  },
+  {
+    "title": "Example Journal Paper: Revisiting Neural Architectures",
+    "year": "2026",
+    "kind": "reviewed",
+    "badge": "Example Journal",
+    "venue": "Example Journal, 2026 — illustrative entry",
+    "url": "https://example.org/",
+    "authors": [{"name": "Example Collaborator", "equal_contribution": true}, {"name": "Your Name", "equal_contribution": true}],
+    "links": [{"label": "Publication", "url": "https://example.org/"}]
+  },
+  {
+    "title": "Example Preprint: Understanding Learning Dynamics",
+    "year": "2025",
+    "kind": "preprint",
+    "badge": "",
+    "venue": "Preprint, 2025 — illustrative entry",
+    "url": "https://example.org/",
+    "authors": [{"name": "Your Name"}, {"name": "Example Advisor"}],
+    "links": [{"label": "Preprint", "url": "https://example.org/"}]
+  }
+]

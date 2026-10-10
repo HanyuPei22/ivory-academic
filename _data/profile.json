@@ -1,0 +1,30 @@
+{
+  "name": "Your Name",
+  "initials": "yn.",
+  "field": "Computer Science & Engineering",
+  "headline": ["Researching machine learning", "and AI security."],
+  "role": "Ph.D. Student",
+  "institution": "Example University",
+  "location": "Your City, Country",
+  "email": "you@example.org",
+  "advisor": {"name": "Example Advisor", "url": ""},
+  "summary": "My research interests lie in machine learning and AI security.",
+  "portrait": "/images/portrait-placeholder.svg",
+  "portrait_alt": "Illustrated portrait placeholder; replace with your own photo",
+  "interests": ["Reinforcement Learning", "Coding Agents", "AI Security", "Machine Unlearning", "Neural Architectures"],
+  "bio": [
+    "I am a Ph.D. student at **Example University**. My interests include reinforcement learning, coding agents, AI security, machine unlearning, and neural architectures.",
+    "Before that, I obtained my **M.Sc. in Mathematics** and **B.Sc. in Statistics**. Replace these paragraphs with your background, collaborators, and the questions you want to explore."
+  ],
+  "social_links": [
+    {"label": "Google Scholar", "url": "https://scholar.google.com/"},
+    {"label": "GitHub", "url": "https://github.com/"},
+    {"label": "ORCID", "url": "https://orcid.org/"},
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/"}
+  ],
+  "scholar_url": "https://scholar.google.com/",
+  "publication_description": "Papers, preprints, and the questions behind them.",
+  "publication_note": "Illustrative entries only. Replace them with your publications. An asterisk denotes equal contribution.",
+  "footer_heading": "Let's talk research.",
+  "footer_text": "For research inquiries and conversations."
+}

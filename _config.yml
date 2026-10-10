@@ -1,0 +1,16 @@
+title: "Ivory Academic"
+description: "A minimal academic homepage with warm colors and editorial typography."
+url: "https://hanyupei22.github.io"
+baseurl: "/ivory-academic"
+lang: "en"
+timezone: "UTC"
+markdown: kramdown
+exclude:
+  - README.md
+  - README.zh-CN.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs
+  - .github

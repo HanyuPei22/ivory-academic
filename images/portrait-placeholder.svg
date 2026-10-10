@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title><desc id="desc">A simple abstract silhouette on an ivory background.</desc>
+  <rect width="1200" height="1500" fill="#eeeee7"/>
+  <circle cx="850" cy="300" r="400" fill="#e3e3d7"/>
+  <circle cx="220" cy="1240" r="500" fill="#d9ddce"/>
+  <circle cx="600" cy="550" r="230" fill="#9ca48d"/>
+  <path d="M100 1500v-190c0-300 224-550 500-550s500 250 500 550v190" fill="#727e66"/>
+</svg>
